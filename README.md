@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Mario1jorge 👋
 
-<!--
-**mario1jorge/mario1jorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. Here, you'll find some of my work, contributions, and experiments. Feel free to explore!
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools:
+- Languages: Python, JavaScript, C++
+- Frameworks: React, Django
+- Tools: Git, Docker, VS Code, Jupyter
+- Database: MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Highlighted Repositories:
+- [Repo 1](https://github.com/mario1jorge/repo1): Description of the repository
+- [Repo 2](https://github.com/mario1jorge/repo2): Description of another repository
+
+## 🌱 I'm currently learning:
+- Machine Learning
+- Cloud Computing
+
+## 📫 How to reach me:
+- Email: mario1jorge@example.com
+- LinkedIn: [linkedin.com/in/mario1jorge](https://linkedin.com/in/mario1jorge)
+
+Thanks for visiting my profile! 🙌
